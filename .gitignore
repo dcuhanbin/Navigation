@@ -1,0 +1,6 @@
+Library/
+DerivedData/
+*.xcuserstate
+*.DS_Store
+.Trash/
+build/
